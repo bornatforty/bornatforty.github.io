@@ -223,7 +223,7 @@ margin-top: 30px;
     color: #f6f6f6;
 }
 .portfolio-area {
-    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(../image/headshot.png);
+    background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url(../image/headshot.png);
     background-position: left;
     background-attachment: fixed;
     background-size: cover;
