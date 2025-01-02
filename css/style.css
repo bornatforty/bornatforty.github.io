@@ -3,8 +3,11 @@
     padding: 0;
 }
 body {
-    height: 3000px;
-    background: white;
+    height: 100vh;
+    background-image: url(..//image/headshot.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 @font-face {
     font-family: 'neoneonregular';
@@ -437,11 +440,3 @@ footer {
     background: deepskyblue;
     color: white;
 }
-.headshot {
-    margin: 0;
-            height: 100vh;
-            background-image: url(..//image/headshot.png);
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-        }
